@@ -11,9 +11,9 @@
 * Once the Player reaches the water he/she wins the Game
 * Go on and set a new High Score
 
-In order to play the game, Follow the below steps:
+###In order to play the game, Follow the below steps:
 
-* [Click here]()  <b>OR</b>
+* [Click here](https://soumya44.github.io/FEND-Classic-Acrade-Game/)  <b>OR</b>
 
 1. Clone project:
 
@@ -42,8 +42,16 @@ In order to play the game, Follow the below steps:
     <b>OR</b>
     Open ```http://localhost:3000``` with your browser
 
+##Screenshots
+<br>
+<img src="./images/screenshots/start.png" align="center"><br>
+<img src="./images/screenshots/middle-1.png" align="center"><br>
+<img src="./images/screenshots/middle-2.png" align="center"><br>
+<br>
 
 ###Feel Free To Contribute !
+
+<br>
 
 ###Regards
 Soumya Ranjan Behera
