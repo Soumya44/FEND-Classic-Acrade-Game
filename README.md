@@ -23,11 +23,11 @@
 
    Serve the application:
 
-### Python 2.7
-    ```$ python -m SimpleHTTPServer 3000```
+### Python 2.7 
+```$ python -m SimpleHTTPServer 3000```
 
-### Python 3.x
-	```$ python3 -m http.server 3000```
+### Python 3.x 
+```$ python3 -m http.server 3000```
 
 3. Open the game:
 
