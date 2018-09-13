@@ -151,7 +151,7 @@ Player.prototype.update = function() {
         this.y = PLAYER_START_Y;
         this.sprite = this.charSelect[getRandomInt(0, 5)];
         this.alive = true;
-        if(this.lives === 0){
+        if(this.lives === 1){
             alert("Game Over !");
             this.score = 0;
             this.lives = 3;
